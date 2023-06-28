@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427717510492",
+    "project_id": "shop-hub-app",
+    "storage_bucket": "shop-hub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427717510492:android:dba9303a48896ea01aad99",
+        "android_client_info": {
+          "package_name": "com.example.shop_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427717510492-78oirkj3inbodo5qitdkhnu4lbut952m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7yJTzPTj80-A_Y1ZX1hivT349k1MpDFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427717510492-78oirkj3inbodo5qitdkhnu4lbut952m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
